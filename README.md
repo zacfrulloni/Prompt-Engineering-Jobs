@@ -24,4 +24,4 @@ If you have any suggestions to improve this repository, please open an issue or 
 
 ## 💖 Support
 
-If you find this repo helpful, consider supporting us by starring the repo, sharing it, or making a small donation to help keep it up to date.
+If you find this repo helpful, consider supporting us by starring the repo or sharing it.
