@@ -13,6 +13,7 @@ A curated list of websites dedicated to prompt engineering jobs. This repository
 7. [Upwork - Prompt Engineering](https://www.upwork.com/en-gb/freelance-jobs/prompt-engineering/) - Freelance prompt engineering roles.
 8. [Prompt Engineering Jobs](https://prompt-engineering-jobs.com/) - Portal for finding prompt engineering jobs.
 9. [AI Careers - Prompt Engineer](https://aicareers.jobs/job-category/prompt-engineer/) - Job board for various AI careers, including prompt engineering.
+10. [Prompt Engineer Competitions](https://promptlympics.com/) - Kaggle for Prompt Engineers. Crowdsource the best prompt and earn prizes by solving competitions.
 
 ## 🚀 How to Contribute
 
